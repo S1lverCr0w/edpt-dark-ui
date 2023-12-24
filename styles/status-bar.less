@@ -4,7 +4,7 @@
 
 .status-bar {
   font-size: @ui-size;
-  height: @status-bar-height*1.2;
+  height: @status-bar-height + .2; // Enryu
   line-height: @status-bar-height;
   background-color: @level-3-color;
 
@@ -21,7 +21,7 @@
 
   .inline-block {
     margin: 0; // override default
-    padding: 0 @status-bar-padding/2;
+    padding: 0 @status-bar-padding * .3; // Enryu
     vertical-align: top;
 
     &:hover {
