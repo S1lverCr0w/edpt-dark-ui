@@ -1,5 +1,9 @@
-# My UI theme
+# edpt-dark-ui theme
 
-A short description of your theme.
+Enryu's Dark Pulsar Theme (EDPT).
 
-![A screenshot of your theme](https://cloud.githubusercontent.com/assets/378023/8842525/4215f26c-3136-11e5-9d94-d2c078a05d24.png)
+A sligthly darkened and with smaller title bars One Dark theme to save more screen space.
+
+
+
+![A screenshot of your theme](https://f.cloud.github.com/assets/69169/2289498/4c3cb0ec-a009-11e3-8dbd-077ee11741e5.gif)
